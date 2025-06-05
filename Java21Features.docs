@@ -1,0 +1,13 @@
+1.JEP : Java Enhancement Proposal
+Process :
+    1 > Drafting : Idea for improving java and put into a draft.
+    2 > Submission : Draft is submitted for review.
+    3 > Review : The openjdk Community Reviews it.
+    4 > Sponsorship :If all is good, then submission is sponsored.
+    5 > Candidate Status
+    6 > Targeted
+    7 > Integrated
+    8 > Released
+
+Note : During this phase, the JEP is implemented,tested and integrated into the JDK source code, which then
+        becomes part of the JDK release.
